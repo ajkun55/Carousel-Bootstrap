@@ -3,7 +3,7 @@ Carousel of AI generated images with prompts
 
 ### Run Locally
 
-To run **Wren** locally, run this command on your git bash:
+To run locally, run this command on your git bash:
 
 Linux and macOS:
 
@@ -17,6 +17,6 @@ Windows:
 git clone https://github.com/ajkun55/Carousel-Bootstrap.git
 ```
 
-### Contact### License
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
